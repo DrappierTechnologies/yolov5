@@ -17,4 +17,4 @@ val: ./val.txt  # 4952 images
 nc: 2
 
 # class names
-names: ['helmet', 'not_helmet']
+names: ['helmet_with_impact', 'helmet_without_impact']
